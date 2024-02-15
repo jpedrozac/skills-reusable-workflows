@@ -1,7 +1,7 @@
 name: Reusable Workflow
 
 on:
-  workflow_dispatch:
+  wworkflow_call:
     inputs:
       node:
         required: true
